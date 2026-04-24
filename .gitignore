@@ -1,0 +1,30 @@
+# Non relevant companies
+ea/
+ubisoft/
+sap/
+vodafone/
+henkel/
+trivago/
+
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.venv/
+
+# PyCharm
+.idea/
+*.iml
+
+# Environment
+.env
+
+# Distribution
+build/
+dist/
+*.egg-info/

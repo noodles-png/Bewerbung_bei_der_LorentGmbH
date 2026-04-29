@@ -162,12 +162,11 @@ def main() -> None:
             "phase, die weltweit zu spüren war und zu einer Realisierung der Wichtigkeit von Familie\n "
             "und Beziehungen führte. Seine Partnerin und die Geburt seines Sohnes brachten ihn dazu,\n "
             "die Faszination seines ersten Studiums neu aufzugreifen und endlich umzusetzen. Den Anfang\n "
-            "machte er mit einer Umschulung in einem Institut, die nach gegrilltem Essen anmutet.\n\n "
-            "Diese Bewerbung ist der nächste Schritt."
+            "machte er mit einer Umschulung bei der BBQ. Diese Bewerbung ist der nächste Schritt."
         ),
         quest=(
             "Eine Anstellung als Praktikant bei der Lorent IT-Lösungen GmbH "
-            "im Reich der C#/.Net-Entwicklung, von April bis Oktober 2027."
+            "im Reich der C#/.NET-Entwicklung, von April bis Oktober 2027."
         )
     )
 

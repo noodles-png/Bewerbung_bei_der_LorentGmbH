@@ -9,7 +9,7 @@ im Zeitraum **April 2027 bis Oktober 2027**.
 Inspiriert von einem aktuellen Coding-Projekt für ein kleines
 Dungeon & Dragons-Hilfstool habe ich diese Idee genutzt, um meine
 Bewerbung etwas zu individualisieren. Dadurch entstand mein Anschreiben in
-Form eines Charakterbogens um zu zeigen, dass mir das
+Form eines Charakterbogens, um zu zeigen, dass mir das
 Programmieren auch außerhalb der Umschulung Spaß macht.
 
 ## Requirements
@@ -22,22 +22,30 @@ Voraussetzung: Python 3.9 oder neuer
 python bewerbung.py
 ```
 
-Das Programm stellt eine Übersicht meiner Person in als Charakterbogen im Terminal dar und 
+Das Programm stellt eine Übersicht meiner Person als Charakterbogen im Terminal dar und 
 gibt anschließend die Option mithilfe eines D&D-typischen Würfelspiels die Ermittlung 
 meiner Eignung für das Praktikum. (Keine reale Selbsteinschätzung)
 
-Dabei in der letzten Zeile reinklicken und entweder mit "j" fortführen oder mit "n" beenden.
-
+Vorgehensweise im Terminal:
+1. Der Charakterbogen wird automatisch dargestellt und fragt am Ende, ob man würfeln möchte.
+2. Mithilfe der Tasten j oder n, die in die Konsole mittels getippt (einmal reinklicken, falls kein Cursor erscheint)
+3. Mit Enter-Taste die Eingabe bestätigen
+4. Die Ergebnisse werden ausgegeben
 
 ## Wie kam ich zur Softwareentwicklung?
 
-Mein Studium der 3D-Animation in Game Development war mein erster realer Einstieg in
-die Softwareentwicklung. Dabei habe ich bei 
-diversen Projekten schnell die Rolle des Technical Artists übernommen und ein Interesse
-für die technischen und programmierlastigen Aspekte der Videospielentwicklung entdeckt. Dabei 
-nutzte ich C++ oder Lua für die Integration von Art-Assets in Game Engines. 
-Dieses Interesse hat mich dann letztendlich dazu bewogen die Umschulung als 
-Fachinformatiker in der Anwendungsentwicklung anzustreben. 
+Während meines 3D-Animation Studiums arbeiteten die Art- und Programmierstudenten schon früh eng miteinander, da
+der Fokus auf die Entwicklung von Spielesoftware lag, wurden so auch schnell Teams gebildet. 
+Mein Team war sehr engagiert und konnte schließlich auch während des Studiums zusammen mit einem externen Arbeitgeber
+ein kleines Entwicklerstudio eröffnen. Mit 2 Codern war die Menge die technischen Aufgaben nicht zu meistern,
+sodass ich die Rolle des Technical Artists übernahm und somit auch die ersten Berührungspunkte mit der
+technischen Seite der Softwareentwicklung bekam. 
+
+Angefangen mit Debugging und dem Feinjustierung von bestehendem Code, baute ich später auch eigenständig Skripte in Lua 
+und C++. Ich entwickelte ziemlich schnell eine Freude beim Coden, die kleinen Erfolgsmomente, wenn etwas 
+wieder funktionierte, waren dabei stärker als das Gefühl bei fertigen Art-Assets. Diese Erfolgsmomente 
+verspüre ich jetzt wieder, wenn ich mich mithilfe der Entwicklung von kleinen Tools in Python einarbeite.
+
 
 ## Meine Erfahrung außerhalb der Umschulung
 ### Übersicht
@@ -75,26 +83,21 @@ Nicht aufgeführt sind Art-Programme, Videospiel-Engines u.ä. Software.
 
 ## Warum Lorent IT-Lösungen GmbH?
 
-Aus Herrn Lorents Präsentation an der BBQ ist mir vor allem der 
-familiäre Charakter des Unternehmens in Erinnerung geblieben. Das Team 
-scheint das richtige Umfeld zu sein, wo man als Praktikant nicht nur viel 
-lernen kann, sondern auch als Person wahrgenommen wird. 
-Zudem zeigt der aktiv gelebte Anspruch der Anpassung an moderne 
-Technologien und die Vielfalt der unterschiedlichen Kunden, dass die 
-Lorent IT-Lösungen GmbH die perfekte Wahl für ein Praktikum wäre.
-
+Herr Lorents Präsentation hat mich angenehm überrascht. Ein Unternehmen, 
+das sich aktiv Zeit für die Einarbeitung seiner Praktikanten nimmt und 
+dabei eine so persönliche Atmosphäre in d. Unternehmenskultur auslebt, 
+wirkt auf mich genau wie der richtige Ort für meinen Einstieg. Mir 
+ist besonders im Kopf geblieben, dass dort viel Wert auf das Team und 
+die einzelne Person gelegt wird – nicht nur auf die fertige Arbeit. 
+Genau dort möchte ich mein Praktikum machen.
 
 ## Die Vorstellung meines Traumberufes
 
-Meine Prioritäten im Leben haben sich seit meiner Vaterschaft drastisch geändert. 
-Die Wunschvorstellung eines Berufs, die sowohl finanzielle Freiheit als auch die
-Erfüllung im Leben bringt, sind natürlich immer vorhanden. Ich würde sagen, jeder 
-Mensch hat dies aber mein wirklicher Wunsch für meinen Traumberuf ist einfach, dass
-es mir genug Zeit und Stabilität gibt für meine Familie und vor allem für
-meinen Sohn da zu sein.
+Seit ich Vater geworden bin, haben sich meine Prioritäten im Leben deutlich 
+geändert. Die klassische Vorstellung eines Traumberufs, der 
+sowohl finanzielle Freiheit als auch persönliche Erfüllung bringt, 
+hat sicher fast jeder. Mein eigentlicher Wunsch ist heute aber ein 
+anderer: ein Beruf, der mir genug Zeit und Stabilität gibt, um für 
+meine Familie und vor allem für meinen Sohn da zu sein.
 
-## Kontakt 
 
-- **Name:**       Patrick Carillo 
-- **Adresse:**    Am Püttkamp 62, 40629 Düsseldorf
-- **E-Mail:**     patrick.carillo@gmx.de
